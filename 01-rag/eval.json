@@ -1,0 +1,20 @@
+[
+  {
+    "question": "How long do refunds take?",
+    "relevant_sources": [
+      "refunds.md"
+    ]
+  },
+  {
+    "question": "When can items be returned?",
+    "relevant_sources": [
+      "returns.md"
+    ]
+  },
+  {
+    "question": "How quickly is shipping dispatched?",
+    "relevant_sources": [
+      "shipping.md"
+    ]
+  }
+]
